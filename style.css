@@ -1,3 +1,11 @@
+
+/* Header */
 nav li a{
     color: #fff !important;
 }
+
+nav img{
+    width: 50%;
+    height: auto    ;
+    }
+    
