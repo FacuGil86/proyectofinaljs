@@ -1,7 +1,7 @@
 
 /* Header */
-nav li a{
-    color: #fff !important;
+nav ul li a{
+    color: #fff ;
 }
 
 nav img{

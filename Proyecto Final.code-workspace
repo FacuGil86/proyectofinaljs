@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TensorFlow"
+		},
+		{
+			"path": "../Clases y contenido"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Clases y contenido",
+		"liveServer.settings.port": 5502
+	}
+}
